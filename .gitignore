@@ -8,3 +8,4 @@ hugo.darwin
 hugo.linux
 
 /node_modules
+/.idea/*
