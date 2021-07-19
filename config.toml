@@ -1,0 +1,57 @@
+theme = "blist"
+languageCode = "en-US"
+baseurl = "https://imrenagi.com"
+title = "Imre Nagi"
+
+[params]
+  description = "Imre's Personal Blog."
+  name = "Imre Nagi"
+
+  # Enable the darkmode toggle in header
+  darkModeToggle = true
+
+  # Enable search in header
+  enableSearch = true
+
+  # Custom copyright - optional
+  copyright = "Copyright © 2021 - Imre Nagi · All rights reserved"
+  favicon = "favicon.svg"
+
+  # Color for the intro details and social links block, not applicable for dark mode
+  # Supported values: Any color from TailwindCSS default colors
+  # Reference: https://tailwindcss.com/docs/customizing-colors
+  ascentColor = "bg-blue-100"
+
+[params.homepage]
+  title = "Halo! I'm Imre"
+  description = "Software engineer, Google Developer Expert Cloud, and Host of Podcast Ngobrolin Startup & Teknologi, Podcast Developer Log and Podcast Dewan Perwakilan Developer"
+  photo = "/imre-ig.jpg"
+
+[params.homepage.social]
+  description = "Follow my social media accounts!"
+  twitter = "https://twitter.com/imrenagi"
+  linkedin = "https://linkedin.com/in/imrenagi"
+  github = "https://github.com/imrenagi"
+  medium = "https://medium.com/@imrenagi"
+
+[[menu.main]]
+  name = "About"
+  url = "/about"
+
+[[menu.main]]
+  name = "Support"
+  url = "/support"
+
+[build]
+  writeStats = true
+
+[outputs]
+  home = ["HTML", "RSS", "JSON"]
+
+# syntax highlight settings
+[markup]
+  [markup.highlight]
+    style = "dracula"
+  [markup.goldmark.renderer]
+    # Enable to include inline HTML
+    unsafe = true
