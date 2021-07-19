@@ -10,6 +10,6 @@ type: about
 You can support Imre on one of these following channels:
 
 * [Direct Support](https://support.imrenagi.com)
-* [Saweria](https://saweria.com/imrenagi)
+* [Saweria](https://saweria.co/imrenagi)
 * [Github Sponsor](https://github.com/sponsors/imrenagi)
 
