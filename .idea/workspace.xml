@@ -2,14 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="00744e66-f519-403a-9c82-cec5c5549b9e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitmodules" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/_index.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/about.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/blog/_index.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/layouts/shortcodes/spotify.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/favicon.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/blist" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/blist/exampleSite/content/blog/rich-content.md" beforeDir="false" afterPath="$PROJECT_DIR$/themes/blist/exampleSite/content/blog/rich-content.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/netlify.toml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/themes/blist/layouts/_default/list.html" beforeDir="false" afterPath="$PROJECT_DIR$/themes/blist/layouts/_default/list.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/themes/blist/layouts/_default/single.html" beforeDir="false" afterPath="$PROJECT_DIR$/themes/blist/layouts/_default/single.html" afterDir="false" />
     </list>
@@ -55,7 +50,7 @@
       <option name="presentableId" value="Default" />
       <updated>1626667823828</updated>
       <workItem from="1626667824934" duration="247000" />
-      <workItem from="1626668281547" duration="7524000" />
+      <workItem from="1626668281547" duration="7964000" />
     </task>
     <servers />
   </component>
