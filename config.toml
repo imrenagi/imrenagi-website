@@ -25,7 +25,7 @@ title = "Imre Nagi"
 [params.homepage]
   title = "Halo! I'm Imre"
   description = "Software engineer, Google Developer Expert Cloud, and Host of Podcast Ngobrolin Startup & Teknologi, Podcast Developer Log and Podcast Dewan Perwakilan Developer"
-  photo = "/imre-ig.jpg"
+  photo = "https://s3-us-west-2.amazonaws.com/anchor-generated-image-bank/production/podcast_uploaded_nologo400/1428780/1428780-1601846605001-8ec5cd464f826.jpg"
 
 [params.homepage.social]
   description = "Follow my social media accounts!"
