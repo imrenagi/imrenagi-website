@@ -38,13 +38,14 @@ During this course, you will learn the following:
 To help you get the most out of this course, you should have basic knowledge and some hands-on experience in the following areas:
 
 * Go
-* REST API and gRPC
+* REST API
+* gRPC (not required, but very basic knowledge is expected). I can share you some resources to learn gRPC if you are not familiar with it.
 * Docker and containerization
 * Linux and Ubuntu. See [lab requirements]({{< ref "lab-requirements.md" >}} "Lab requirements") for more details.
 
 ## Communication and collaboration
 
-We will use Discord for communication and collaboration. You will be invited to the Discord channel after you register to the course. You can ask discord to share your progress, ask questions, and help each other. I will be there to help you as well.
+We will use Discord for communication and collaboration. You will be invited to the Discord channel after you register to the course. You can use discord to share your progress, ask questions, and help each other. I will be there to help you as well.
 
 ## What this course is about
 
