@@ -4,7 +4,7 @@ baseurl = "https://imrenagi.com"
 title = "Imre Nagi"
 
 [params]
-  description = "Imre's Personal Blog."
+  description = "Imre's Programming Notes."
   name = "Imre Nagi"
 
   # Enable the darkmode toggle in header
@@ -14,17 +14,17 @@ title = "Imre Nagi"
   enableSearch = true
 
   # Custom copyright - optional
-  copyright = "Copyright © 2021 - Imre Nagi · All rights reserved"
+  copyright = "Copyright © 2024 - Imre Nagi · All rights reserved"
   favicon = "favicon.svg"
 
   # Color for the intro details and social links block, not applicable for dark mode
   # Supported values: Any color from TailwindCSS default colors
   # Reference: https://tailwindcss.com/docs/customizing-colors
-  ascentColor = "bg-blue-100"
+  ascentColor = "bg-blue-200"
 
 [params.homepage]
   title = "Halo! I'm Imre"
-  description = "Software engineer, Google Developer Expert Cloud, and Host of Podcast Ngobrolin Startup & Teknologi, Podcast Developer Log and Podcast Dewan Perwakilan Developer"
+  description = "Software engineer and Google Developer Expert Cloud working on Infrastructure Engineering team in Goto Financial. I talk about cloud, infrastructure, programming, and sometimes politics."
   photo = "https://s3-us-west-2.amazonaws.com/anchor-generated-image-bank/production/podcast_uploaded_nologo400/1428780/1428780-1601846605001-8ec5cd464f826.jpg"
 
 [params.homepage.social]
@@ -32,7 +32,7 @@ title = "Imre Nagi"
   twitter = "https://twitter.com/imrenagi"
   linkedin = "https://linkedin.com/in/imrenagi"
   github = "https://github.com/imrenagi"
-  medium = "https://medium.com/@imrenagi"
+  medium = "https://medium.com/@imrenagi"  
 
 [[menu.main]]
   name = "About"
