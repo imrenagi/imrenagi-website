@@ -7,12 +7,18 @@ keywords: ["about-us", "contact"]
 type: about
 ---
 
-Imre Nagi, Cloud Platform Engineer in GoPay Infrastructure Engineering, focuses on software architecture, cloud native technology (container and kubernetes), and data engineering. 
+I'm currently working as Software Engineer/SRE/Tech Lead in one of the leading payment companies in Jakarta, Indonesia. I have been working in the industry for almost 10 years. At my day-to-day work, I work closely with things related to platform engineering, kubernetes, and databases. Outside work, I love to interact with tech communities either locally and globally as Google Developer Expert for Cloud. 
 
-Imre has deep technical background in Go programming language and has develop applications in different domain in Go. 
+I'm also a tech content creator. I have several channels where you can see my works:
 
-Prior to Gojek, he built his own ed-tech startup as co-founder and CTO. He was also Senior Data Engineer in the biggest OTA (Online Travel Agent), Traveloka, where he mostly worked with big data technologies like Bigtable, Dataflow, Bigquery, Cloud Pub/Sub, etc.  He also has experiences working in some big companies and world class research center like eBay (2017) and CERN (2013) as software engineer. 
+* [Cloud Engineering with Imre Youtube Channel](https://www.youtube.com/@imrenagi)
+* [Podcast Ngobrolin Startup & Teknologi](https://open.spotify.com/show/3cA81ivwFR2gDMF570j06X)
+* [Podcast Developer Logs](https://open.spotify.com/show/0R3d8NC2V1LeKiFWKxcaUs?si=ce477a3cb71a420c)
 
-Imre is a leader in Indonesia tech scene community. He organizes docker community as Indonesia Docker Community Leader and leads Jakarta Kubernetes and also Cloud Native Jakarta user group. Imre is also the first Google Developer Expert Cloud from Indonesia. Imre lives in Jakarta and spends his free time reading and learning.
+If you like my works, please consider supporting me by:
 
-For partnership/endorsement, please reach out to [@imrenagi](https://twitter.com/imrenagi) or send email to imre.nagi2812@gmail.com 
+* [Direct Support](https://support.imrenagi.com)
+* [Saweria](https://saweria.co/imrenagi)
+* [Github Sponsor](https://github.com/sponsors/imrenagi)
+
+For business inquiry, please reach out to [@imrenagi](https://twitter.com/imrenagi) or send email to imre.nagi2812@gmail.com 
