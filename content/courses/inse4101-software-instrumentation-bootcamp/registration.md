@@ -13,7 +13,7 @@ You can access the timetable for the upcoming batch [here](https://docs.google.c
 
 > Please note that the schedule is subject to change.
 
-There will be at least at most 12 meetings for first batch with the following details:
+There will be at most 12 meetings for first batch with the following details:
   
   * Kick off meeting (1 hour): 1 meeting.
   * Live online class (2 hours): 6 meetings. During this class, we will discuss the materials, exercises, challenges and do showcases from the participants.
