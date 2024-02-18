@@ -7,8 +7,6 @@ date: 2024-02-08T00:00:00+07:00
 thumbnail: ""
 ---
 
-# Registration information
-
 ## Schedules
 
 You can access the timetable for the upcoming batch [here](https://docs.google.com/spreadsheets/d/16wlOJjRgutrN5lHK0LhQ550L68wz_L-zfzUkTOkIdVI/edit?usp=sharing).
