@@ -26,6 +26,10 @@ The easiest way to get an Ubuntu VM is actually by rent one from any cloud hosti
 
 I'm currently using Contabo VPS XL (10 vCPU, 64GB RAM, 1.6TB SSD) for my workstation and it works well for me for developing this course and run some experiments. It is also relatively cheap (around 40USD/month) compared to other hosting/cloud provider. (I'm not endorsing Contabo anyway :p)
 
+#### Free USD $300 credit from Google Cloud
+
+If you are new to Google Cloud, you can get free 300USD credit for 90 days. You can use this credit to rent a VM for this course. You can register [here](https://cloud.google.com/free).
+
 ### Ubuntu VM on your laptop
 
 If you don't want to rent a VM, you may also install Ubuntu on your laptop. But, I don't recommend this option because it will be a lot of hassle to install and configure everything. Especially if you are using recent Macbook Pro with Apple M1, M2, or M3 chip. 

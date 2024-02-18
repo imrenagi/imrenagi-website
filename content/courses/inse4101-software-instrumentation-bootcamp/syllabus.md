@@ -54,9 +54,8 @@ Here is the outline of the materials that you going to learn in this bootcamp. T
 ### Tracing
 
 * Introduction to tracing
-* Introduction to Jaeger
-* Setting up Jaeger + **[Lab/Challenges]**
-* Collecting trace with OpenTelemetry + **[Lab/Challenges]**
-* OpenTelemetry Automatic Tracing
+* Introduction and setting up Jaeger + **[Lab/Challenges]**
+* Collecting trace with OpenTelemetry Part 1 + **[Lab/Challenges]**
+* Collecting trace with OpenTelemetry Part 2 + **[Lab/Challenges]**
 * Tracing context propagation + **[Lab/Challenges]**
 * **[Final Tracing Challenges]**: Enabling tracing for gRPC service and databases with traces
