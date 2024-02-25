@@ -30,9 +30,11 @@ I'm currently using Contabo VPS XL (10 vCPU, 64GB RAM, 1.6TB SSD) for my worksta
 
 If you are new to Google Cloud, you can get free 300USD credit for 90 days. You can use this credit to rent a VM for this course. You can register [here](https://cloud.google.com/free).
 
+This is the recommended option! But, you might need to add your credit card to register though.
+
 ### Ubuntu VM on your laptop
 
-If you don't want to rent a VM, you may also install Ubuntu on your laptop. But, I don't recommend this option because it will be a lot of hassle to install and configure everything. Especially if you are using recent Macbook Pro with Apple M1, M2, or M3 chip. 
+If you don't want to rent a VM, you may also install Ubuntu on your laptop. Add Ubuntu as a dual boot on your laptop. This is the best option if you have a powerful laptop. But, it is also the most risky option. You might accidentally cause issue with your existing main OS if you are not careful. So, please be careful if you choose this option.
 
 If you want to use any software virtualization, there are several options that you can choose from:
 
