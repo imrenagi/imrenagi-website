@@ -9,6 +9,12 @@ thumbnail: ""
 
 Welcome to Software Instrumentation course. This online live bootcamp is designed to help you understand the fundamental ideas behind software instrumentation and monitoring, its applicability, benefits, as well as current and future challenges. 
 
+I made a short video to explain what this course is about and how the result of final projects and challenges look like.
+
+{{< youtube 9IQp2esbC3U >}}
+
+For more details about the syllabus, you can find it [here]({{< ref "syllabus.md" >}} "Syllabus").
+
 ## Who is this course for?
 
 This course is designed for beginner and intermediate software engineers who are interested in learning about software instrumentation and monitoring. No prior experience with software instrumentation and monitoring is required.

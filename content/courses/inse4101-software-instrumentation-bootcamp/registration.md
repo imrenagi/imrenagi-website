@@ -35,7 +35,7 @@ Available prices:
 
 Registration will be opened on 1st March 2024. To apply, please follow the following steps:
 
-1. Read the [terms and conditions]({{< ref "tnc.md" >}} "Terms and Condition")
+1. Read the [program introduction]({{< ref "about.md" >}} "Program Introduction"), [syllabus]({{< ref "syllabus.md" >}} "Syllabus"), and [terms and conditions]({{< ref "tnc.md" >}} "Terms and Condition") 
 
 1. Make payment in via this payment Link (TBA)
 
