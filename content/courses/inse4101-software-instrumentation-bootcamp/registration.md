@@ -9,9 +9,9 @@ thumbnail: ""
 
 ## Schedules
 
-You can access the timetable for the upcoming batch [here](https://docs.google.com/spreadsheets/d/16wlOJjRgutrN5lHK0LhQ550L68wz_L-zfzUkTOkIdVI/edit?usp=sharing).
+First batch will be starting early in April 2024 until the last week of May 2024. You can access the timetable for the first batch [here](https://docs.google.com/spreadsheets/d/16wlOJjRgutrN5lHK0LhQ550L68wz_L-zfzUkTOkIdVI/edit?usp=sharing). 
 
-> Please note that the schedule is subject to change.
+> Please note that the schedule is subject to change. There is no certainty that there will be the second, third, and so on batch. But, if there is, the schedule will be updated there.
 
 There will be at most 12 meetings for first batch with the following details:
   
@@ -19,7 +19,7 @@ There will be at most 12 meetings for first batch with the following details:
   * Live online class (2-2.5 hours): 6 meetings. During this class, we will discuss the materials, exercises, challenges and do showcases from the participants.
   * Optional recitation/office hours (30 mins): 5 meetings. During this recitation, if you run through problems, you can ask me anything related to the materials, exercises, challenges, or anything else. I will try to help you as much as I can.
 
-The class **might** be recorded and shared with the participants. But, I'm not sure about the detail yet. I will let you know later.
+The class **might** be recorded and shared with the participants. But, make no promises.
 
 ## Quota and Price 
 
