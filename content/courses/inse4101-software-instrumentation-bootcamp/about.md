@@ -21,9 +21,11 @@ This course is designed for beginner and intermediate software engineers who are
 
 If you are an expert and have been working with observability tools for years, this course might not be for you.
 
-## Duration
+## Schedules and Duration
 
 This course will be conducted over 4 weeks. Each week, we will have 1 live online classes. Each class will be 2-3 hours long. There might be recitation outside of the live online class, but it is optional. It will be held based on my availability.
+
+Planned scheduled can be found in [registration and payment]({{< ref "registration.md" >}} "Registration and Payment").
 
 ## Class Size
 
