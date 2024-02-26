@@ -11,6 +11,10 @@ thumbnail: ""
 * Basic knowledge about Go, Docker, HTTP are required for this course. If participants are not familiar with these, they may need to learn them before the bootcamp starts. Failure to do so may result in the participant not being able to follow the materials and exercises.
 * Participants **must** provide their own Linux machine for this bootcamp.They may install Ubuntu locally on their computer or use any existing Cloud provider or VPS provider to get the Linux machine with Ubuntu installed. Please read the [lab requirements]({{< ref "lab-requirements.md" >}} "Lab requirements") for more details.
 
+## Certificates
+
+* This course does not provide any certificates at the moment.
+
 ## Schedules
 * We will have at most 12 meetings for the bootcamp with the following details:
   * Kick off meeting (1 hour): 1 meeting.
