@@ -49,7 +49,9 @@ To help you get the most out of this course, you should have basic knowledge and
 * Docker and containerization
 * Linux and Ubuntu. See [lab requirements]({{< ref "lab-requirements.md" >}} "Lab requirements") for more details.
 
-## Database and cloud native tech stack used in this course
+## Database and cloud native tech stack
+
+During this course, we are going to use, learn and discuss at least the following cloud native technologies:
 
 * Grafana
 * Grafana Loki
