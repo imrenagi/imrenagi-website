@@ -17,7 +17,7 @@ There will be at most 12 meetings for first batch with the following details:
   
   * Kick off meeting (1 hour): 1 meeting.
   * Live online class (2-2.5 hours): 6 meetings. During this class, we will discuss the materials, exercises, challenges and do showcases from the participants.
-  * Optional recitation/office hours (30 mins): 5 meetings. During this recitation, if you run through problems, you can ask me anything related to the materials, exercises, challenges, or anything else. I will try to help you as much as I can.
+  * Optional recitation/office hours (30 mins): 5 meetings. This class could be held based on my availability and requests. During this recitation, if you run through problems, you can ask me anything related to the materials, exercises, challenges, or anything else. I will try to help you as much as I can.
 
 The class **might** be recorded and shared with the participants. But, make no promises.
 
