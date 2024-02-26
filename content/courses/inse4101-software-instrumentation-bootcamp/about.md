@@ -49,6 +49,18 @@ To help you get the most out of this course, you should have basic knowledge and
 * Docker and containerization
 * Linux and Ubuntu. See [lab requirements]({{< ref "lab-requirements.md" >}} "Lab requirements") for more details.
 
+## Database and cloud native tech stack used in this course
+
+* Grafana
+* Grafana Loki
+* Fluentbit
+* Prometheus
+* Jaeger
+* OpenTelemetry
+* Go
+* Postgresql
+* Docker
+
 ## Communication and collaboration
 
 We will use Discord for communication and collaboration. You will be invited to the Discord channel after you register to the course. You can use discord to share your progress, ask questions, and help each other. I will be there to help you as well.
