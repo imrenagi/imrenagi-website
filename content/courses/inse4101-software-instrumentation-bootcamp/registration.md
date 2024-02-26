@@ -27,7 +27,7 @@ Maximum participants: 20
 
 Available prices:
 
-* Early bird price (28 February-7th March 2024): **Rp. 649.000,-**
+* Early bird price (28th February-7th March 2024): **Rp. 649.000,-**
 
 * Normal price (7-30th March 2024): **Rp. 749.000,-**
 
@@ -35,7 +35,7 @@ Available prices:
 
 ## Registration
 
-Registration will be opened on 1st March 2024. To apply, please follow the following steps:
+Registration will be opened on 28th March 2024. To apply, please follow the following steps:
 
 1. Read the [program introduction]({{< ref "about.md" >}} "Program Introduction"), [syllabus]({{< ref "syllabus.md" >}} "Syllabus"), and [terms and conditions]({{< ref "tnc.md" >}} "Terms and Condition") 
 
