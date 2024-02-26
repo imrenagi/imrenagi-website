@@ -27,7 +27,7 @@ Maximum participants: 20
 
 Available prices:
 
-* Early bird price (1-7th March 2024): **Rp. 649.000,-**
+* Early bird price (28 February-7th March 2024): **Rp. 649.000,-**
 
 * Normal price (7-30th March 2024): **Rp. 749.000,-**
 
