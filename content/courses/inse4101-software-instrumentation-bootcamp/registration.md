@@ -39,7 +39,7 @@ Registration will be opened on 28th February 2024. To apply, please follow the f
 
 1. Read the [program introduction]({{< ref "about.md" >}} "Program Introduction"), [syllabus]({{< ref "syllabus.md" >}} "Syllabus"), and [terms and conditions]({{< ref "tnc.md" >}} "Terms and Condition") 
 
-1. Make payment in via this [payment Link](https://invoice.xendit.co/od/inse4101-012024-eb)
+1. Make payment in via this ~~payment Link~~ (SOLD OUT. REGISTRATION CLOSED)
 
 1. Fill the [registration and confirmation form](https://docs.google.com/forms/d/e/1FAIpQLScLyhRSzTfVvJDbpTuD37iITqHpFc2j--KOCfXxjf06jGYXMw/viewform)
 
