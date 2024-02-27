@@ -35,7 +35,7 @@ Available prices:
 
 ## Registration
 
-Registration will be opened on 28th March 2024. To apply, please follow the following steps:
+Registration will be opened on 28th February 2024. To apply, please follow the following steps:
 
 1. Read the [program introduction]({{< ref "about.md" >}} "Program Introduction"), [syllabus]({{< ref "syllabus.md" >}} "Syllabus"), and [terms and conditions]({{< ref "tnc.md" >}} "Terms and Condition") 
 
