@@ -39,9 +39,9 @@ Registration will be opened on 28th February 2024. To apply, please follow the f
 
 1. Read the [program introduction]({{< ref "about.md" >}} "Program Introduction"), [syllabus]({{< ref "syllabus.md" >}} "Syllabus"), and [terms and conditions]({{< ref "tnc.md" >}} "Terms and Condition") 
 
-1. Make payment in via this payment Link (TBA)
+1. Make payment in via this [payment Link](https://invoice.xendit.co/od/inse4101-012024-eb)
 
-1. Fill the registration and confirmation form (TBA)
+1. Fill the [registration and confirmation form](https://docs.google.com/forms/d/e/1FAIpQLScLyhRSzTfVvJDbpTuD37iITqHpFc2j--KOCfXxjf06jGYXMw/viewform)
 
 ### After Payment
 
@@ -49,7 +49,7 @@ First and foremost, thanks for purchasing this online bootcamp!
 
 Here is what you need to know after you make the payment:
 
-* Make sure you have filled out the registration form. I will be using the information given here to verify the payment.
+* Make sure you have filled out the [registration form](https://docs.google.com/forms/d/e/1FAIpQLScLyhRSzTfVvJDbpTuD37iITqHpFc2j--KOCfXxjf06jGYXMw/viewform). I will be using the information given here to verify the payment.
 * Please join the discord server used to interact and share information related to this bootcamp. Here is the invite link https://discord.gg/f9m7KgesWb. You may gain the `@masyarakat` role first to access all public channels there by following instruction on `#welcome-and-rules`. Later, I will grant additional roles for this bootcamp gradually so that you can access private channels for this bootcamp. But please be patient. I will ensure you get the role at least a few days before we start the kick-off meeting.
 * You will be invited soon to Google group Software Instrumentation Bootcamp 01. It will be our secondary communication channel (for redundant purpose). But please be patient. I will ensure you get the invite at least a few days before we start the kick-off meeting.
 * You will be invited soon to my github organization for this course. Please accept the invitation when receive it. I will ensure you get the invite at least a few days before we start the kick-off meeting.
