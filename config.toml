@@ -39,8 +39,8 @@ title = "Imre Nagi"
   url = "/about"
 
 [[menu.main]]
-  name = "Support"
-  url = "/support"
+  name = "Courses"
+  url = "https://courses.imrenagi.com"
 
 [build]
   writeStats = true

@@ -1,4 +1,4 @@
 ---
 author: Imre Nagi
-title: Courses
+title: Bootcamp
 ---
