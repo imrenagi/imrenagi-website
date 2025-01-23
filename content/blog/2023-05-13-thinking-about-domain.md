@@ -11,6 +11,8 @@ I really like reading people's code. It helps me understand how people approach 
 
 As a context, I'm currently working on automation platform where we want to provide functionality for the developers to perform automatic upgrade for their database. **One of the requirements is that user should be able to initialize upgrade for a single instance of postgresql. The new version given must be greater than the current version of the postgresql node.**
 
+{{< inarticleads >}}
+
 To give you idea about the entities, we have something similar (but not exactly the same) to this:
 
 ```go
@@ -61,6 +63,8 @@ func NewUpgrade(instance *Instance, oldVersion, newVersion Version) (*Upgrade, e
 }
 ```
 
+{{< inarticleads >}}
+
 The code above looks correct, right? Yes it is. It passed all of the test cases defined when the pull requests was submitted. But, how can we get better? (fyi. I like to ask this kind of question over and over again when I write code. lol I never get satisfied easily. :p)
 
 What I found most of the time during my career as software engineer is that people tend to put logic too far away from where it is supposed to be. The sample code above IMO is just a normal constructor. But what is hidden from the implementation about is about the domain problem. Let's reiterate the requirement once again. 
@@ -95,6 +99,8 @@ The implementation is actually the same. But what are the benefits?
 * You are now able to see that the method name now is clearly describe what the requirement is. Instead of using `NewUpgrade`, now we know that `Instance` has capability to initialize an new instance of `Upgrade`. 
 * You are now able to see that we are now accepting less function arguments as before. It was 3 before and now we only have 1: `toVersion Version`. This benefit is something that people most of the time are not aware of. While an entity probably has all information it needs to perform and operation, why does it has to pass it to other function while it actually can do it itself? Remember something about message passing in object oriented paradigm class?
 * This help us in doing more refactoring. How? Let's see.
+
+{{< inarticleads >}}
 
 Let's iterate the requirement once agan for the last time only. :p
 
@@ -164,5 +170,7 @@ func (v Version) CanBeUpgraded(to Version) error {
   return nil
 }
 ```
+
+{{< inarticleads >}}
 
 As you can see. The `InvalidVersionError` in this case has `Internal` attributes that we can use possibly later to decide which http status code we should define. Since HTTP is not the domain language, but more like the adapter we use to interact with outside world, I will not discuss it on this write up. But if you are interested, you can get idea on how we can do it from my [previous article about error handling](./05-07-2023-error-handling.md).

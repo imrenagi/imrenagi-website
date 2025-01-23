@@ -56,6 +56,8 @@ Then I should create a new connection to redis instance. This connection will be
 redis-cli ACL SETUSER vault on >vault ~* &* +@all
 ```
 
+{{< inarticleads >}}
+
 Then to create redis connection, we use this:
 
 ```hcl

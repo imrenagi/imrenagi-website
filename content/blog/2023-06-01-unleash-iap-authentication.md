@@ -13,6 +13,8 @@ Since  we are internally using [Google Identity Aware Proxy (IAP)](https://cloud
 
 If we decided to use unleash custom authentication, we will need to build our custom unleash server, package and build it as docker image (if necessary), and do the deployment by ourself. To provide custom authentication, we are going to specify the custom auth handler by providing it to `authentication.customAuthHandler`. For more detail, read [Implementing Custom Authentication](https://docs.getunleash.io/reference/deploy/securing-unleash#implementing-custom-authentication)
 
+{{< inarticleads >}}
+
 ```typescript
 import unleash, { IAuthType, LogLevel} from 'unleash-server';
 import { googleIapAuthentication } from './google-iap';
@@ -62,6 +64,8 @@ export const verify = async (iapJwt: string): Promise<LoginTicket> => {
 When writing custom authentication, you can decide about what to do for any particular route by providing nodejs middleware. In my case, I'm protecting all routes with prefix `/api/admin` with Google IAP. Other route such as `/health` which is meant for health check is not protected since it might be used internally by kubernetes service to perform health check in the cluster.
 
 Once the JWT is verified, we are going to read the email from JWT payload and use `userService.loginUserWithoutPassword()` method to sign the user in. This method is provided by the services passed as parameters on the custom auth handler signature. Once we get the user, we simply add the user into the request session so that it can be used later by the handler to perform authorization and others.
+
+{{< inarticleads >}}
 
 ```typescript
 export const googleIapAuthentication = (app: Express, config, services) => {

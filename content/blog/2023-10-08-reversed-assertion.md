@@ -28,6 +28,8 @@ Test above is testing `Drive` function of `Car` struct. The `Drive` function wil
 
 That is good. But, what if we want to test the opposite? What if we want to test when `StartAutopilot` never gets called when optional argument named `WithManual` to `Drive` function is given? We can do it like this:
 
+{{< inarticleads >}}
+
 ```go
 func TestIsDriving(t *testing.T) {
     mock := &MockSomething{}
@@ -80,6 +82,8 @@ car := NewCar(client)
 ok := car.Drive(WithDisabledAnalytics()) // opt-out from analytics
 assert.True(t, ok)
 ```
+
+{{< inarticleads >}}
 
 What I meant by failing immediately in this case is not returning non-200 status code error to the client. Rather, we use `testing.T`'s utility to fail the test when the test reaches the server handler. This is how we know that the server should never get called.
 

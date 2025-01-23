@@ -13,6 +13,8 @@ Last weekend I did live streaming to review [@lynxluna](https://twitter.com/lynx
 
 I still remember back then relatively junior engineer at work complaining about a modification done by a senior engineer. The junior came from this kind of practice when writing repository code:
 
+{{< inarticleads >}}
+
 ```go
 type Repository struct {
   DB *gorm.DB //db connection stored here
@@ -65,6 +67,8 @@ Are we leaking the database implementation to the upper layer (e.g. service laye
 1. Check whether the amount is enough for transfer
 1. Deduct the user's balance. --> `repository.UpdateBalance(user, new_balance)`
 1. Increment destination's balance. --> `repository.UpdateBalance(user, new_balance)`
+
+{{< inarticleads >}}
 
 Imagine what happened if each query is using different transaction and being called from the service layer? If deduction is success, but updating destination's balance fails, it is hard to rollback the transaction entirely. This is where having service controls the database transaction boundary might be handy.
 

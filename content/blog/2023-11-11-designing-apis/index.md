@@ -24,6 +24,8 @@ If you are thinking that it will make one API call for stopping all instances, y
 
 If you observe, there are two API calls made to the server. One for each instance.
 
+{{< inarticleads >}}
+
 Let's stop. Why is that? Why not just make one API call which contains list of instances to be stopped? In this case, user will just press stop button once, why bother making n number of API calls to stop n number of instances?
 
 > To be honest, I don't know the exact reason because I'm not the one designed this and primarily I'm not working at Google. But let me explain why I think this makes sense.
@@ -69,6 +71,10 @@ Now, think about how you should provide the response back to tell whether stop c
 ```
 
 What happened if one of the instance can't be stopped? Are you still returning 200 status code and continue stopping the rest of the instance that can be stopped properly? To me, it is clear that this is not the right way to do it. 
+
+{{< inarticleads >}}
+
+{{< inarticleads >}}
 
 Another issue spotted? Imagine you are trying to stop 100 or 1000 instances at once. How long are you going to wait until you get the operation response constructed for all instances? Boom!
 

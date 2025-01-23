@@ -23,6 +23,8 @@ The note contains step by step to setup VPN machine with Wireguard as jumphost f
 * Wireguard VM: VPC `payment-vpc` subnet `payment-private-us-central1-public`
 * Nginx VM: VPC `payment-vpc` subnet `payment-private-us-central1`
 
+{{< inarticleads >}}
+
 ## Notes
 
 1. Setting up new GCP Project
