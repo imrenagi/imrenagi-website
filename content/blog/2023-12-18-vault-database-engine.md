@@ -15,6 +15,8 @@ Key important requirements to me when it comes to managing secret for applicatio
 
 In this case, I will take redis as example. The same concept can be applied to other databases as well (e.g. postgresql).
 
+{{< inarticleads >}}
+
 We have this `docker-compose.yml` which will create a new redis container:
 
 ```yaml
