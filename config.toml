@@ -55,3 +55,7 @@ title = "Imre Nagi"
   [markup.goldmark.renderer]
     # Enable to include inline HTML
     unsafe = true
+
+[services]
+  [services.googleAnalytics]
+    id = 'G-LRQ5NN25B6'
